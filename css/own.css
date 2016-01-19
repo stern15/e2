@@ -1,6 +1,10 @@
-.row{
+body{
+	padding:5%;	
+}
+.first{
+	
 	color: white;
-	padding:5%;
+	
 }
 
 
@@ -19,4 +23,7 @@ h1{
 }
 .mouse{
 	width: 2%;
+}
+.second{
+	
 }

@@ -1,31 +1,22 @@
 .row{
 	color: white;
-	padding-left: 10%;
-	padding-right: 10%;
+	padding:5%;
 }
 
 
 h1{
     text-align: center;
-    margin-top: -315px;
+    margin-top: -415px;
     font-size: xx-large;
 }
 .intro{
-    margin-top: 320px;
-    margin-left: 0%;
+    margin-top: 370px;
     text-align: center;
-    font-size: 15px;
+    font-size: 10px;
 }
-.logo{
+.d{
 	width: 4%;
-	margin-top: 170px;
-	margin-left: 47%;
-	background-color: black;
-
 }
 .mouse{
 	width: 2%;
-	margin-top: 100px;
-	margin-left: 0%;
-
 }

@@ -1,4 +1,20 @@
 body{
-	margin-left: 5%;
-	margin-right: 5%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.row{
+    background-image: url(img/assets/h_img.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+    line-height: 1px;
+    padding: 10%;
+}
+#texIntro{
+	line-height: 10px;
+	font-size: xx-small;
+	width: 100%;
+}
+.logo{
+	height: 40px;
 }

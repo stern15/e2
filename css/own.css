@@ -1,20 +1,31 @@
-body{
-	margin-left: 10%;
-	margin-right: 10%;
-}
 .row{
-    background-image: url(img/assets/h_img.jpg);
-    background-size: cover;
-    text-align: center;
-    color: white;
-    line-height: 1px;
-    padding: 10%;
+	color: white;
+	padding-left: 10%;
+	padding-right: 10%;
 }
-#texIntro{
-	line-height: 10px;
-	font-size: xx-small;
-	width: 100%;
+
+
+h1{
+    text-align: center;
+    margin-top: -315px;
+    font-size: xx-large;
+}
+.intro{
+    margin-top: 320px;
+    margin-left: 0%;
+    text-align: center;
+    font-size: 15px;
 }
 .logo{
-	height: 40px;
+	width: 4%;
+	margin-top: 170px;
+	margin-left: 47%;
+	background-color: black;
+
+}
+.mouse{
+	width: 2%;
+	margin-top: 100px;
+	margin-left: 0%;
+
 }

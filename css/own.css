@@ -42,5 +42,18 @@ h1{
 /* third row and i call it third*/
 
 .third{
-	background-color: green;
+	background-image: url(/Users/semasuka/Documents/e2/css/s_image.jpg );
+    background-size: cover;
+    color: white;
+	text-align: center;
+	padding: 5%;
+    
+
 }
+.third p{
+	font-size: xx-small;
+}
+
+/* fourth row and i call it fourth*/
+
+

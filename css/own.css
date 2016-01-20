@@ -8,7 +8,7 @@ body{
 
 }
 
-/* first raw and i call it first*/
+/* first row and i call it first*/
 .d{
 	width: 4%;
 }
@@ -33,8 +33,14 @@ h1{
 }
 
 
-/* about  second */
+/* second row and i call it second*/
+
 .second{
 	background-color: #f1fcf7;
 	padding: 5%;
+}
+/* third row and i call it third*/
+
+.third{
+	background-color: green;
 }

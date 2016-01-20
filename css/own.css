@@ -1,3 +1,40 @@
+/* general */
+
 body{
-	
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: center;
+	background-color: black;
+
+}
+
+/* first raw and i call it first*/
+.d{
+	width: 4%;
+}
+.mouse{
+	width: 2%;
+}
+h1{
+	padding-top: 200px;
+}
+.intro{
+	font-size: 15px;
+    margin-top: -280px;
+
+}
+
+.first{
+	color: white;
+	text-align: center;
+	background-image: url(/Users/semasuka/Documents/e2/css/h_img.jpg );
+	background-size: cover;
+	height: 70%;
+}
+
+
+/* about  second */
+.second{
+	background-color: #f1fcf7;
+	padding: 5%;
 }

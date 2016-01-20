@@ -56,4 +56,10 @@ h1{
 
 /* fourth row and i call it fourth*/
 
-
+.fourth{
+	color: black;
+	text-align: center;
+	padding: 5%;
+	background-color: #f1fcf7;
+	
+}

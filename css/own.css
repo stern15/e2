@@ -1,11 +1,14 @@
 /* general */
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Poiret One', cursive;
 
+}
 body{
 	padding-left: 5%;
 	padding-right: 5%;
 	text-align: center;
 	background-color: black;
-
+    font-family: 'Poiret One', cursive;
 }
 
 /* first row and i call it first*/

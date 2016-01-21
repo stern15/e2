@@ -63,17 +63,33 @@ h1{
 	background-color: #f1fcf7;
 	padding: 5%;
 }
+/* fifth row and i call it fifth*/
 .fifth{
 	color: black;
 	background-color: #f1fcf7;
 	padding: 3%;
 }
+/* sixth row and i call it sixth*/
 .sixth{
 	color: black;
 	background-color: #f1fcf7;
 	padding: 3%;
 	margin-top: -4%;
 }
+/* seventh row and i call it senventh*/
+.seventh{
+	background-image: url(/Users/semasuka/Documents/e2/css/c_image.jpg);
+	background-size: contain;
+	height: 56%;
+	width: 100%;
+	color:white;
+}
+/* eighth row and i call it eighth*/
+.eighth{
+	background-color: #f1fcf7;
+	background-size: cover;
+}
+
 
 
 

@@ -79,15 +79,21 @@ h1{
 /* seventh row and i call it senventh*/
 .seventh{
 	background-image: url(/Users/semasuka/Documents/e2/css/c_image.jpg);
-	background-size: contain;
+	background-size: cover;
 	height: 56%;
 	width: 100%;
 	color:white;
+	text-align: center;
 }
 /* eighth row and i call it eighth*/
 .eighth{
 	background-color: #f1fcf7;
 	background-size: cover;
+	margin-top: 424px;
+	padding:7%;
+	width: 100%;
+	height: 50%;
+	margin-left: -20%;
 }
 
 
